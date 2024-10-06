@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">JDM Galery</string>
+    <string name="heroes_name">Nama Mobil JDM</string>
+    <string name="description">Mahasiswa Informatika di Institut Teknologi Telkom Purwokerto yang sedang menjalani semester 5. Memiliki ketertarikan dalam bidang Internet of Things (IoT), Kecerdasan Buatan (AI), serta pengembangan Web dan Mobile. Berpengalaman dalam mengembangkan proyek Indoor Air Quality Monitoring System yang mengintegrasikan sensor untuk mendeteksi kualitas udara dan menampilkan data secara real-time melalui aplikasi web. </string>
+    <string name="myname">Teguh Rahmat Syahputra</string>
+    <string name="myemail">teguhrahmat911@gmail.com</string>
+    <string-array name="data_name">
+        <item>Nissan Skyline GT-R R34</item>
+        <item>Toyota Supra MK4</item>
+        <item>Mazda RX-7 FD</item>
+        <item>Honda NSX</item>
+        <item>Mitsubishi Lancer Evolution VI</item>
+        <item>Subaru Impreza WRX STI</item>
+        <item>Nissan Silvia S15</item>
+        <item>Toyota AE86 Trueno</item>
+        <item>Mazda MX-5 Miata</item>
+        <item>Honda S2000</item>
+        <item>Nissan Skyline GT-R R32</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Nissan Skyline GT-R R34 adalah salah satu mobil JDM paling ikonik yang pernah diproduksi. Dibekali dengan mesin RB26DETT twin-turbo inline-6 yang terkenal karena ketangguhannya, R34 memiliki kemampuan untuk menghasilkan tenaga besar dan kecepatan yang mengesankan. Teknologi AWD ATTESA E-TS yang canggih membuatnya mampu menaklukkan berbagai medan dengan stabilitas yang luar biasa. Popularitas mobil ini melambung karena sering tampil di dunia balap, seperti dalam ajang Super GT, dan juga di banyak film, salah satunya adalah seri Fast and Furious, yang membuatnya menjadi simbol budaya mobil global.</item>
+        <item>Toyota Supra MK4, yang juga dikenal sebagai A80, adalah salah satu mobil sport paling legendaris dari Jepang. Ditenagai oleh mesin 2JZ-GTE twin-turbo inline-6, Supra MK4 dapat menghasilkan tenaga yang sangat besar bahkan dengan modifikasi sederhana, membuatnya sangat disukai oleh tuner di seluruh dunia. Desain bodinya yang aerodinamis dan performa luar biasa membuatnya menjadi salah satu mobil yang paling dicari oleh penggemar JDM. Supra telah tampil dalam berbagai acara balap dan media, termasuk film, yang menambah status ikoniknya di dunia otomotif.</item>
+        <item>Mazda RX-7 FD adalah mobil sport JDM yang memiliki desain bodi yang aerodinamis dan estetika yang elegan. Mesin rotary 13B-REW twin-turbo yang unik, memberikan tenaga yang signifikan dengan karakteristik putaran mesin yang berbeda dari mobil konvensional. RX-7 terkenal di kalangan penggemar balap, terutama karena kelincahannya di lintasan dan performanya yang memukau. Meskipun mesin rotary terkenal menantang untuk perawatan, para penggemar rotary engine menjadikannya sebagai mobil impian, terutama karena pengalaman berkendara yang ditawarkan oleh mesin rotary yang ringan dan responsif.</item>
+        <item>Honda NSX adalah supercar yang mengubah persepsi dunia tentang mobil sport Jepang. Dikenal dengan sasis aluminium yang ringan dan mesin V6 mid-engine, NSX memberikan pengalaman berkendara yang luar biasa dengan distribusi bobot yang seimbang. Mobil ini sering disebut sebagai "Ferrari dari Jepang" karena kemampuannya yang mirip dengan supercar Italia, namun dengan keandalan dan efisiensi khas Honda. NSX mendobrak batasan dalam hal teknologi dan desain, dan banyak penggemar mobil mengagumi perpaduan antara performa tinggi dan kualitas pembuatan yang superior.</item>
+        <item>Mitsubishi Lancer Evolution VI, sering disingkat sebagai Evo VI, adalah salah satu mobil reli legendaris yang dibuat oleh Mitsubishi. Ditenagai oleh mesin turbocharged yang bertenaga dan sistem AWD yang canggih, Evo VI memiliki reputasi kuat di dunia balap reli, terutama dalam ajang World Rally Championship (WRC). Mobil ini tidak hanya populer di dunia reli, tetapi juga di kalangan penggemar modifikasi yang mencari performa ekstrem. Evo VI memiliki penggemar fanatik karena kemampuannya yang luar biasa di medan yang sulit dan kemudahan untuk dimodifikasi.</item>
+        <item>Subaru Impreza WRX STI adalah mobil sport JDM yang dikenal dengan mesin boxer-nya yang unik dan sistem penggerak semua roda (AWD) yang sangat kuat. Mobil ini menjadi favorit di dunia balap reli, dengan sejarah panjang dalam kompetisi World Rally Championship (WRC). WRX STI menawarkan kombinasi ideal antara performa tinggi dan stabilitas yang mengesankan, menjadikannya mobil pilihan bagi para penggemar balap jalanan dan off-road. Popularitasnya semakin meluas di seluruh dunia karena keserbagunaannya dan warisannya di dunia reli.</item>
+        <item>Nissan Silvia S15 adalah mobil drift yang sangat populer di kalangan penggemar balap dan modifikasi. Dilengkapi dengan mesin SR20DET turbocharged yang bertenaga, Silvia S15 sering digunakan dalam kompetisi drifting, terutama karena kontrol dan kelincahannya yang luar biasa di tikungan. Mobil ini mendapatkan reputasi tinggi di kalangan penggemar balap jalanan dan modifikasi, dengan berbagai penyesuaian performa yang memungkinkan pemiliknya untuk meningkatkan kecepatan dan handling sesuai keinginan mereka.</item>
+        <item>Toyota AE86 Trueno adalah mobil yang legendaris di kalangan drifter dan penggemar balap JDM. Mobil ini dikenal luas karena perannya dalam anime dan manga "Initial D," yang membuatnya menjadi salah satu mobil yang paling berpengaruh dalam budaya mobil sport Jepang. AE86, dengan mesin 4A-GE dan bobot yang ringan, sangat responsif di lintasan dan jalan pegunungan. Popularitas AE86 di kalangan penggemar mobil tidak hanya karena performanya, tetapi juga karena status ikoniknya dalam sejarah otomotif Jepang.</item>
+        <item>Mazda MX-5 Miata adalah salah satu roadster paling dicintai di dunia. Dengan berat yang ringan, handling yang tajam, dan desain yang kompak, Miata menawarkan pengalaman berkendara yang menyenangkan. Mobil ini sering digunakan dalam kompetisi balap ringan atau hanya untuk berkendara santai di jalan berliku. Kehandalannya serta kesederhanaannya dalam desain membuatnya menjadi favorit di kalangan penggemar mobil sport dari berbagai kalangan, mulai dari pemula hingga profesional.</item>
+        <item>Honda S2000 adalah salah satu roadster paling terkenal yang diproduksi oleh Honda. Ditenagai oleh mesin 2.0-liter VTEC yang berputar sangat tinggi, S2000 menawarkan pengalaman berkendara yang luar biasa dengan performa yang tajam dan handling yang presisi. Diproduksi antara tahun 1999 hingga 2009, mobil ini menarik perhatian banyak penggemar mobil sport berkat keseimbangan sempurna antara tenaga dan kelincahan. Hingga kini, S2000 masih dihargai tinggi di pasar mobil bekas dan memiliki komunitas penggemar yang setia di seluruh dunia.</item>
+        <item>Nissan Skyline GT-R R32, dijuluki "Godzilla", adalah mobil performa tinggi yang mendominasi ajang balap pada era 90-an. Dilengkapi dengan sistem penggerak semua roda ATTESA E-TS yang canggih dan mesin RB26DETT twin-turbo, R32 menjadi mobil yang menakutkan di lintasan. Kehebatannya dalam balap turisme, terutama dalam kejuaraan Grup A, membuatnya menjadi legenda di dunia otomotif. Hingga kini, R32 tetap menjadi favorit di kalangan penggemar JDM dan modifikasi, terutama karena warisan balapnya yang mengesankan.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://i.pinimg.com/originals/ea/b6/f3/eab6f3b4c4a4898b3753429f9aa1f9f2.jpg</item>
+        <item>https://cdns.klimg.com/mav-prod-resized/480x/ori/feedImage/2024/3/19/1710852980603-8d61vj.jpeg</item>
+        <item>https://i.pinimg.com/originals/e4/25/eb/e425eba526109d70390e54d678a7e766.jpg</item>
+        <item>https://i.pinimg.com/736x/0f/ff/67/0fff67adde505578f535d4ee6e14661e.jpg</item>
+        <item>https://i.pinimg.com/564x/91/95/a0/9195a038424af3f42f96907255bfb5b0.jpg</item>
+        <item>https://i.pinimg.com/564x/3d/9c/64/3d9c64bb995757638972ff9cf3173612.jpg</item>
+        <item>https://i.pinimg.com/564x/0c/76/f7/0c76f75af99c617caee309a8693a2113.jpg</item>
+        <item>https://i.pinimg.com/564x/78/58/08/785808110027a3bd3c0086cf68ed6854.jpg</item>
+        <item>https://i.pinimg.com/564x/84/12/a8/8412a8e3f6a362a6815418da3e35417f.jpg</item>
+        <item>https://i.pinimg.com/564x/94/9b/c2/949bc2d14a93ee217b66a7eaa2e53ef7.jpg</item>
+        <item>https://i.pinimg.com/564x/54/93/23/549323d86ab6647200d1a29dd2cb898d.jpg</item>
+    </string-array>
+    <integer-array name="foto">
+        <item>@drawable/myfoto</item>
+        <item>@drawable/jdm</item>
+    </integer-array>
+    <string name="about">About</string>
+    <string name="about_description">\n\n</string>
+</resources>
