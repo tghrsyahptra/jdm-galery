@@ -43,9 +43,9 @@ JDMCar adalah aplikasi Android yang menampilkan koleksi mobil JDM (Japanese Dome
 ## Instalasi
 
 1. Clone repositori ini:
-   ```bash
+   
    git clone https://github.com/tghrsyahptra/jdm-galery.git
-   ```
+   
 
 ## Daftar Mobil yang Ditampilkan
 
