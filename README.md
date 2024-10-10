@@ -45,3 +45,19 @@ JDMCar adalah aplikasi Android yang menampilkan koleksi mobil JDM (Japanese Dome
 1. Clone repositori ini:
    ```bash
    git clone https://github.com/tghrsyahptra/jdm-galery.git
+   ```
+## Daftar Mobil yang Ditampilkan
+
+1. **Nissan Skyline GT-R R34**
+2. **Toyota Supra MK4**
+3. **Mazda RX-7 FD**
+4. **Honda NSX**
+5. **Mitsubishi Lancer Evolution VI**
+6. **Subaru Impreza WRX STI**
+7. **Nissan Silvia S15**
+8. **Toyota AE86 Trueno**
+9. **Mazda MX-5 Miata**
+10. **Honda S2000**
+11. **Nissan Skyline GT-R R32**
+   
+   
